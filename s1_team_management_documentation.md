@@ -11,26 +11,25 @@ collaborating, we can create something that is greater than the sum of its parts
 **Identify your skills**: Think about what skills you bring to the table, such as technical expertise, design skills, or
 marketing knowledge. This will help you identify what kind of team you should join.
 * Aristide -
-- Technical knowledge: I have a strong understanding of client-server architecture, including how they interact with other systems.
-- Troubleshooting skills: I can diagnose and solve problems quickly and efficiently, using a variety of tools and techniques.
-- Communication skills: I can explain technical issues to non-technical users in a clear and concise manner and work collaboratively with other team members.
-- Customer service skills: I am patient, empathetic, and able to provide excellent customer service to users who are experiencing technical issues.
-- Attention to detail: I can carefully analyze problems and data to identify patterns and potential solutions.
-- 
-* Balaji - 
-* Jesse - 
-* Radhika - 
+  - Technical knowledge: I have a strong understanding of client-server architecture, including how they interact with other systems.
+  - Troubleshooting skills: I can diagnose and solve problems quickly and efficiently, using a variety of tools and techniques.
+  - Communication skills: I can explain technical issues to non-technical users in a clear and concise manner and work collaboratively with other team members.
+  - Customer service skills: I am patient, empathetic, and able to provide excellent customer service to users who are experiencing technical issues.
+  - Attention to detail: I can carefully analyze problems and data to identify patterns and potential solutions.
+* Balaji - Quality Assurance, HTML & CSS, Design Database & Tables, Kanban
+* Jesse - Python coding, writing agile documentation
+* Radhika - Java, JavaScript, HTML, CSS, Bootstrap, Docker
 
 **Identify gaps**: Once you know your skills, look for gaps that need to be filled. For example, if you have technical
 expertise, you may want to look for team members who have design skills or marketing knowledge.
 * Aristide - 
-- Industry-specific knowledge: Depending on the industry I am working in; I may need to have specialized knowledge or experience that I don't currently possess.
-- Technical skills: Depending on the products or services I am responsible for testing; I may need to have specialized technical knowledge or experience that I currently lack.
-- Continuous learning: As technologies and methodologies continue to evolve, I may need to stay up to date with the latest developments and industry trends to ensure that my team is using the most effective and efficient testing methods.
-- Project management skills: I may need to have strong project management skills to manage the testing process effectively and ensure that products are delivered on time and within budget.
-* Balaji - 
-* Jesse - 
-* Radhika - 
+  - Industry-specific knowledge: Depending on the industry I am working in; I may need to have specialized knowledge or experience that I don't currently possess.
+  - Technical skills: Depending on the products or services I am responsible for testing; I may need to have specialized technical knowledge or experience that I currently lack.
+  - Continuous learning: As technologies and methodologies continue to evolve, I may need to stay up to date with the latest developments and industry trends to ensure that my team is using the most effective and efficient testing methods.
+  - Project management skills: I may need to have strong project management skills to manage the testing process effectively and ensure that products are delivered on time and within budget.
+* Balaji - Writing Technical Documentation, Python Coding
+* Jesse - Scrum/Kanban, Lean, project management, HTML and Javascript
+* Radhika - Scrum/Kanban, Python, Project management, Database
 
 Meet with your team: Once you have identified potential team members, schedule a meeting to discuss your goals and how
 you can work together effectively. Make sure to establish clear roles and responsibilities for each team member.
