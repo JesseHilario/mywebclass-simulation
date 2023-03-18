@@ -12,14 +12,14 @@ collaborating, we can create something that is greater than the sum of its parts
 marketing knowledge. This will help you identify what kind of team you should join.
 * Aristide - 
 * Balaji - 
-* Jesse - 
+* Jesse - Python coding, writing agile documentation
 * Radhika - 
 
 **Identify gaps**: Once you know your skills, look for gaps that need to be filled. For example, if you have technical
 expertise, you may want to look for team members who have design skills or marketing knowledge.
 * Aristide - 
 * Balaji - 
-* Jesse - 
+* Jesse - Scrum/Kanban, Lean, project management, HTML and Javascript
 * Radhika - 
 
 Meet with your team: Once you have identified potential team members, schedule a meeting to discuss your goals and how
