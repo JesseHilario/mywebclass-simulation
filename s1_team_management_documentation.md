@@ -13,14 +13,14 @@ marketing knowledge. This will help you identify what kind of team you should jo
 * Aristide - 
 * Balaji - Quality Assurance, HTML & CSS, Design Database & Tables, Kanban
 * Jesse - Python coding, writing agile documentation
-* Radhika - 
+* Radhika - Java, JavaScript, HTML, CSS, Bootstrap, Docker
 
 **Identify gaps**: Once you know your skills, look for gaps that need to be filled. For example, if you have technical
 expertise, you may want to look for team members who have design skills or marketing knowledge.
 * Aristide - 
 * Balaji - Writing Technical Documentation, Python Coding
 * Jesse - Scrum/Kanban, Lean, project management, HTML and Javascript
-* Radhika - 
+* Radhika - Scrum/Kanban, Python, Project management, Database
 
 Meet with your team: Once you have identified potential team members, schedule a meeting to discuss your goals and how
 you can work together effectively. Make sure to establish clear roles and responsibilities for each team member.
