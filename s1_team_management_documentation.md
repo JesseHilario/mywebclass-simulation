@@ -11,14 +11,14 @@ collaborating, we can create something that is greater than the sum of its parts
 **Identify your skills**: Think about what skills you bring to the table, such as technical expertise, design skills, or
 marketing knowledge. This will help you identify what kind of team you should join.
 * Aristide - 
-* Balaji - 
+* Balaji - Quality Assurance, HTML & CSS, Design Database & Tables, Kanban
 * Jesse - Python coding, writing agile documentation
 * Radhika - 
 
 **Identify gaps**: Once you know your skills, look for gaps that need to be filled. For example, if you have technical
 expertise, you may want to look for team members who have design skills or marketing knowledge.
 * Aristide - 
-* Balaji - 
+* Balaji - Writing Technical Documentation, Python Coding
 * Jesse - Scrum/Kanban, Lean, project management, HTML and Javascript
 * Radhika - 
 
