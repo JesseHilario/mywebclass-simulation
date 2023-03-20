@@ -14,7 +14,7 @@ contributions to the project.*
 | Choose a project management technique                                  | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/6   | Done   | Jesse       | 3/19/2023   | 3/19/2023    | Docs     |              |
 | Create a new GitHub Project board that reflects the chosen methodology | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/9   | Done   | Jesse       | 3/19/2023   | 3/20/2023    | Docs     |              |
 | Customize the columns on the team task board                           | 2            | https://github.com/JesseHilario/mywebclass-simulation/issues/10  | Done   | Jesse       | 3/19/2023   | 3/20/2023    | Docs     |              | 
-|                                                                        |              |                                                                  |        |             |             |              |          |              | 
+| GitHub features such as labels, milestones, and comments               | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/11  | Done   | Jesse       | 3/19/2023   | 3/20/2023    | Docs     |              | 
 |                                                                        |              |                                                                  |        |             |             |              |          |              | 
 |                                                                        |              |                                                                  |        |             |             |              |          |              | 
 
