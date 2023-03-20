@@ -9,9 +9,9 @@ to this document. Tasks can be the following categories: Feature, Bug, Docs, or 
 *Note: This log will be used to determine project contributions and evaluate if each member made adequate and equal 
 contributions to the project.*
 
-| Issue title | Story points | Issue link | Status | Assigned to | Assigned on | Completed on | Category | Status notes |
-|-------------|--------------|------------|--------|-------------|-------------|--------------|----------|--------------|
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
+| Issue title                           | Story points | Issue link                                                      | Status | Assigned to | Assigned on | Completed on | Category | Status notes |
+|---------------------------------------|--------------|-----------------------------------------------------------------|--------|-------------|-------------|--------------|----------|--------------|
+| Choose a project management technique | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/6  | Done   | Jesse       | 3/19/2023   | 3/19/2023    | Docs     |              |
+|                                       |              |                                                                 |        |             |             |              |          |              |
+|                                       |              |                                                                 |        |             |             |              |          |              |
 
