@@ -1,0 +1,50 @@
+name: Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Deploy
+        run: npm run deploy
+
+      - name: Measure deployment time
+        run: |
+          start_time=$(date +%s)
+          npm run deploy
+          end_time=$(date +%s)
+          deployment_time=$((end_time - start_time))
+
+          echo "Deployment time: ${deployment_time} seconds"
+
+      - name: Calculate success rate and error rate
+        run: |
+          success_count=$(grep -c 'Deployment successful' deployment.log)
+          error_count=$(grep -c 'Deployment failed' deployment.log)
+          total_count=$(wc -l deployment.log | awk '{print $1}')
+          success_rate=$((success_count * 100 / total_count))
+          error_rate=$((error_count * 100 / total_count))
+
+          echo "Success rate: ${success_rate}%"
+          echo "Error rate: ${error_rate}%"
+
+      - name: Save deployment report
+        uses: actions/upload-artifact@v2
+        with:
+          name: deployment-report
+          path: |
+            deployment.log
+            deployment-time.txt
+            success-rate.txt
+            error-rate.txt
