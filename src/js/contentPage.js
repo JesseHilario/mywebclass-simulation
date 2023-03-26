@@ -2,7 +2,7 @@ exports.initialize = function () {
   updateReadingTime()
   generateTOC()
   setActiveBreadcrumb()
-}
+ }
 
 function updateReadingTime (wordsPerMinute = 200) {
   const readingTimeSpan = document.querySelector('#readingTime')
@@ -51,13 +51,31 @@ function generateTOC () {
 
   sections.forEach((section) => {
     const heading = section.querySelector('h1, h2, h3, h4, h5, h6')
-    if (heading) {
+     if (heading) {
       const level = parseInt(heading.tagName.charAt(1))
       const id = section.id || heading.textContent.replace(/\s/g, '-').toLowerCase()
       const linkText = heading.textContent.length > 15 ? heading.textContent.substring(0, 15) + '...' : heading.textContent
       const link = createLink(id, linkText)
 
       addLinkToLevel(headingLevels, level, link, linksContainer)
+      var elem = document.getElementById(heading.id);
+      if(elem){
+        elem.addEventListener("click", function(){
+        /*var currClassList = document.querySelectorAll("i");
+    if (currClassList.contains('bi-plus')) {
+        this.firstChild.classList.remove("collapsed");}
+        else
+        {
+        this.lastChild.classList.add("expanded");
+        }*/
+         var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+               });
+        }
     }
   })
 
@@ -128,3 +146,4 @@ function setTabindexAttributeForNavLinks () {
     link.setAttribute('tabindex', '0')
   })
 }
+

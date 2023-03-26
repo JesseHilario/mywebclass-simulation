@@ -10,9 +10,9 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
     <!--Basic meta info -->
-    <meta content="My Webclass Homepage | Our Story" name="keywords">
+    <meta content="My Webclass Homepage | Privacy Policy" name="keywords">
     <meta content="Keith Williams" name="author"/>
-    <meta content="The story and mission of MyWebClass.org" name="description">
+    <meta content="The story and mission of MyWebClass.org" name="description" ">
 
     <!--OpenGraph meta -->
     <meta content="" property="og:title"/>
@@ -27,8 +27,7 @@
         <nav aria-label="Main navigation" class="navbar navbar-expand-lg navbar-dark bg-dark " role="navigation">
             <div class="container">
                 <a class="navbar-brand" href="/">MyWebClass.org</a>
-                <button aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"
-                        class="navbar-toggler"
+                <button aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
                         data-bs-target="#navbarCollapse" data-bs-toggle="collapse" type="button">
                     <span aria-hidden="true" class="navbar-toggler-icon"></span>
                     <span class="visually-hidden">Toggle navigation</span>
@@ -59,8 +58,8 @@
 
     <div class="container">
         <div class="row">
-            <!-- Sidebar menu with scrollspy -->
-            <nav class="col-md-2 col-lg-2 d-md-block bg-light sidebar collapse position-fixed" id="sidebarMenu">
+            <!-- Table of Contents (TOC) menu with scrollspy -->
+            <nav class="col-md-2 col-lg-2 d-md-block bg-light sidebar collapse position-fixed" id="toc_menu">
                 <div class="position-sticky pt-3">
                     <h2 class="justify-left">Navigation</h2>
                     <!-- Javascript builds out the navigation items -->
@@ -69,19 +68,26 @@
 
             <!-- Main content area -->
             <main class="col-md-9 ms-sm-auto col-lg-9 px-md-4">
+                 <h1 class="fw-bold border-bottom">Our Story</h1>
+                <section id="title">
 
-                <h1 class="fw-bold border-bottom" id="title">Our Story</h1>
-                <div class="text-muted mb-3 ">By <a href="#">Author Name</a><span class="text-muted me-3"> Last Updated:
+                    <div class="text-muted mb-3 ">By <a href="#">Author Name</a><span class="text-muted me-3"> Last Updated:
               January 1, 2022</span> <span class="text-muted" id="readingTime">0</span>
                 </div>
-                    <section class="row">
-                            <h2 class="h4 mb-4">Mission</h2>
-                            <p>Our mission is to create a community of people committed to helping students of all ages
+                </section>
+
+                <section id="section2">
+                    <h2 id="section2heading">Mission</h2>
+                    <div id="section2Content">
+                     <p>Our mission is to create a community of people committed to helping students of all ages
                                 and backgrounds succeed in the modern software industry by providing educational
                                 opportunities and a practical, hands-on learning experience.</p>
-
-                            <h2 class="h4 mb-4">Values</h2>
-                            <ul>
+                    </div>
+                </section>
+                <section id="section3">
+                    <h2 id="section3heading">Values</h2>
+                    <div id="section3Content">
+                    <ul>
                                 <li><strong>People:</strong> We value the people in our community and believe that every
                                     student and teacher has the potential to succeed. We strive to create an inclusive
                                     and supportive environment where everyone feels welcome to learn and grow.
@@ -107,9 +113,12 @@
                                 educational opportunities that help students and teachers succeed in the modern software
                                 industry. Our emphasis on efficiency and dependability allows us to provide a practical,
                                 reliable platform that makes the most of everyone's time.</p>
-
-                            <h2 class="h4 mb-4">Origin</h2>
-                            <p>Mywebclass.org was founded in 2023 by Keith Williams, a University Lecturer at New Jersey
+                    </div>
+                </section>
+                <section id="section4">
+                    <h2 id="section4heading">Origin</h2>
+                    <div id="section4Content">
+                     <p>Mywebclass.org was founded in 2023 by Keith Williams, a University Lecturer at New Jersey
                                 Institute of Technology with over 30 years of experience as a software engineer,
                                 entrepreneur, and 17 years of experience as a university lecturer and in k-12 education.
                                 Keith founded mywebclass.org to help bridge the gap between educators and professionals
@@ -119,56 +128,60 @@
                             <p>Thank you for your interest in mywebclass.org. Together, we can create a community of
                                 people committed to helping students of all ages and backgrounds succeed in the modern
                                 software industry.</p>
-                        </div>
-                    </section>
-
+                    </div>
+                </section>
 
             </main>
+
+            <footer class="py-5 container">
+                <div class="row">
+                    <div class="col">
+                        <h1>About Us</h1>
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                            <li class="nav-item mb-2"><a href="story.html" class="nav-link p-0 text-muted">Our
+                                Story</a>
+                            </li>
+                             <li class="nav-item mb-2"><a href="privacy.html" class="nav-link p-0 text-muted active">Privacy
+                                Policy</a>
+                            </li>
+                             <li class="nav-item mb-2"><a href="term.html" class="nav-link p-0 text-muted active">Terms and Use
+                                </a>
+                            </li>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <h1>Share on Social Media</h1>
+                        <ul class="nav">
+                            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="#"><i
+                                    class="bi bi-linkedin me-2"></i></a></li>
+                            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="#"><i
+                                    class="bi bi-twitter me-2"></i></a>
+                            </li>
+                            <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="#"><i
+                                    class="bi bi-facebook me-2"></i></a></li>
+                        </ul>
+                    </div>
+
+
+                    <div class="col-md-5 offset-md-1 mb-3">
+                        <form>
+                            <h1>Subscribe to our newsletter</h1>
+                            <p>Monthly digest of what's new and exciting from us.</p>
+                            <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                                <label class="visually-hidden" for="newsletter1">Email address</label>
+                                <input class="form-control" id="newsletter1" placeholder="Email address" type="text">
+                                <button class="btn btn-primary" type="button">Subscribe</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </footer>
         </div>
-        <footer class="py-5 container">
-            <div class="row">
-                <div class="col">
-                    <h1>About Us</h1>
-                    <ul class="nav flex-column">
-                        <li class="nav-item">
-                        <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="story.html">Our
-                            Story</a>
-                        </li>
-
-                        <a aria-current="page" class="nav-link mb-2 p-0 text-muted active" href="privacy.html">Privacy
-                            Policy</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-sm-3 ">
-                    <h1>Share on Social Media</h1>
-                    <ul class="nav">
-                        <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="#"><i
-                                class="bi bi-linkedin me-2"></i></a></li>
-                        <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="#"><i
-                                class="bi bi-twitter me-2"></i></a>
-                        </li>
-                        <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="#"><i
-                                class="bi bi-facebook me-2"></i></a></li>
-                    </ul>
-                </div>
-
-
-                <div class="col-md-5 offset-md-1 mb-3">
-                    <form>
-                        <h1>Subscribe to our newsletter</h1>
-                        <p>Monthly digest of what's new and exciting from us.</p>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                            <label class="visually-hidden" for="newsletter1">Email address</label>
-                            <input class="form-control" id="newsletter1" placeholder="Email address" type="text">
-                            <button class="btn btn-primary" type="button">Subscribe</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </footer>
     </div>
+</div>
 </body>
 
 </html>
