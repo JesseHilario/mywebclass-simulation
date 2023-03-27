@@ -63,3 +63,9 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 
 
 # ADD YOUR PROJECT LINKS BELOW THIS 
+- [Link to a deployment for all members to see the progress of the sprint](https://jessehilario.github.io/mywebclass-simulation/)
+- DevOps Documentation:
+  - [Installing the project on your Mac or Windows computer](docs/developer_docs.md)
+  - [Deploying the project and setting up the development server](docs/deployment_docs.md)
+- [Team Productivity Log](team_productivity_log.md)
+

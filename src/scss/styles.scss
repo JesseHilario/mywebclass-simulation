@@ -13,6 +13,23 @@ html {
     --banner-height: 64px;
   }
 
+.hpImage {
+	padding: 10px;
+}
+
+
+$color_1: #fff;
+
+.startBtn {
+	text-decoration: none;
+	color: $color_1;
+	&:hover {
+		text-decoration: none;
+		color: $color_1;
+	}
+}
+
+
 body.banner-offset {
     margin-top: calc(var(--bs-gutter-y) + var(--banner-height));
   }
@@ -25,5 +42,43 @@ body.banner-offset {
       font-size: 80%;
     }
   }
+
+  .section2Content::before {
+    content: '▶️';
+}
+
+.section2Content::before {
+    content: '🔽';
+}
+
+
+.bi-dash {
+  display: block;
+}
+
+.bi-plus {
+  display: none;
+}
+
+@media (min-width: 480px) {
+   #section2Content, #section3Content, #section4Content, #section5Content, #section6Content, #section7Content, #section8Content, #section9Content{
+   display:none;
+  }
+}
+
+@media (min-width: 600px) {
+   #section2Content, #section3Content, #section4Content{
+
+   display:block;
+  }
+}
+
+@media (min-width:801px) {
+   #section2Content, #section3Content, #section4Content{
+
+   display:block;
+  }
+}
+
 
  
