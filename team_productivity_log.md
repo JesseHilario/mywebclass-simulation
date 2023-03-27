@@ -9,6 +9,7 @@ to this document. Tasks can be the following categories: Feature, Bug, Docs, or 
 *Note: This log will be used to determine project contributions and evaluate if each member made adequate and equal 
 contributions to the project.*
 
+
 | Issue title                                                            | Story points | Issue link                                                      | Status | Assigned to | Assigned on | Completed on | Category    | Status notes |
 |------------------------------------------------------------------------|--------------|-----------------------------------------------------------------|--------|-------------|-------------|--------------|-------------|--------------|
 | Choose a project management technique                                  | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/6  | Done   | Jesse       | 3/19/2023   | 3/19/2023    | Docs        |              |
@@ -19,5 +20,11 @@ contributions to the project.*
 | Integrate automated test run time metrics into our CI/CD pipeline      | 3            | https://github.com/JesseHilario/mywebclass-simulation/issues/13 | Done   | Jesse       | 3/19/2023   | 3/21/2023    | Devops Task |              | 
 | Research web accessibility features such as keyboard navigation        | 5            | https://github.com/JesseHilario/mywebclass-simulation/issues/25 | Done   | Radhika     | 3/21/2023   | 3/27/2023    | Research    |              | 
 | Conduct research for internationalization(i18n) feature on website     | 5            | https://github.com/JesseHilario/mywebclass-simulation/issues/19 | Done   | Radhika     | 3/19/2023   | 3/27/2023    | Research    |              | 
+| Conduct research on the legal compliance requirements for the website                            | 2            | https://github.com/JesseHilario/mywebclass-simulation/issues/24 | Done   | Balaji      | 3/19/2023   | 3/26/2023    | Docs        |              | 
+| Conduct Research on implementing responsive web design for the website                           | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/27 | Done   | Balaji      | 3/19/2023   | 3/26/2023    | Docs        |              | 
+| Make changes to ensure the website is legally compliant                                          | 2            | https://github.com/JesseHilario/mywebclass-simulation/issues/32 | Done   | Balaji      | 3/26/2023   | 3/26/2023    | Feature     |              |
+| Make changes to the website to ensure it is easily viewable on desktops, tablets and smartphones | 2            | https://github.com/JesseHilario/mywebclass-simulation/issues/33 | Done   | Balaji      | 3/26/2023   | 3/26/2023    | Feature     |              |
+| Breadcrumb issue                                                                                 | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/38 | Todo   | Balaji      | 3/26/2023   |              | Bugs        |              |
+| Issue with privacy policy content                                                                | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/37 | Todo   | Balaji      | 3/26/2023   |              | Bugs        |              |
 |                                                                        |              |                                                                 |        |             |             |              |             |              | 
 
