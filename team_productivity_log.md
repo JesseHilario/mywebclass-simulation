@@ -29,3 +29,7 @@ contributions to the project.*
 | Track and research how to improve deployment run times                 | 2            | https://github.com/JesseHilario/mywebclass-simulation/issues/14 | Done    | Jesse       | 3/19/2023  | 3/27/2023    | Devops Task |              | 
 | Tracking Webpack build times and build size                            | 1            | https://github.com/JesseHilario/mywebclass-simulation/issues/12 | Done    | Jesse       | 3/19/2023  | 3/27/2023    | Devops Task |              | 
 | Conduct SEO research to ensure that the website is ranked highly       | 2            | https://github.com/JesseHilario/mywebclass-simulation/issues/26 | Done    | Jesse       | 3/19/2023  | 3/27/2023    | Docs        |              | 
+| Create automated tests using Playwright                                | 8            | https://github.com/JesseHilario/mywebclass-simulation/issues/28 | Done    | Jesse       | 3/19/2023  | 3/27/2023    | Docs        |              | 
+| Measure automated test run times                                       | 6            | https://github.com/JesseHilario/mywebclass-simulation/issues/29 | Done    | Jesse       | 3/19/2023  | 3/27/2023    | Docs /Devops|              | 
+
+
